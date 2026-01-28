@@ -1,0 +1,13 @@
+{
+  "name": "the-borg-unleashed",
+  "version": "1.0.0",
+  "description": "The Borg Unleashed - Desktop Edition",
+  "scripts": {
+    "tauri": "tauri",
+    "dev": "tauri dev",
+    "build": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^1.5.0"
+  }
+}
