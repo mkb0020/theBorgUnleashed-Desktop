@@ -1,7 +1,7 @@
 {
   "name": "the-borg-unleashed",
   "version": "1.0.0",
-  "description": "The Borg Unleashed - Desktop Edition",
+  "description": "The Borg Unleashed",
   "scripts": {
     "tauri": "tauri",
     "dev": "tauri dev",
